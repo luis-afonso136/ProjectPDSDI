@@ -28,3 +28,9 @@ model Utilizador {
   // role_id Int @default(autoincrement())
   // role Role @relation(fields: [role_id], references: [role_id])
 }
+
+model Curso {
+  id_curso Int @id @default(autoincrement())
+  nome String
+  
+}
