@@ -1,3 +1,4 @@
+import React from 'react';
 import logo from '../assets/LearnAcadamy3.png'; 
 
 const Footer = () => {

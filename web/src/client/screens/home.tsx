@@ -1,5 +1,5 @@
 import React from 'react';
-import image from '../assets/5dbeda04-c471-4ff3-8c01-8e92fe1079ae.png'; 
+import image from '/Projects/ProjectPDSDI/web/src/client/assets'; 
 
 export const Home: React.FC = () => {
   return (
